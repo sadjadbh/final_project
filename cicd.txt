@@ -1,0 +1,5 @@
+CI/CD is a general term for Continuous Integration and Continuous Developement system.
+
+Continuous Integration (CI) is a system that automatically builds and tests the code whenever a change is made to the code.
+
+Continuous Developement (CD) is a system that deploys new code repeatedly and automatically after going through the CI process.
